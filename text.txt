@@ -1,5 +1,1 @@
-
 prin("Hello World")
-hi
-test file
-
