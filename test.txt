@@ -2,4 +2,4 @@
 prin("Hello World")
 hi
 test file
-print(("New line")
+print("New line")
